@@ -4,6 +4,7 @@ A Publisher, Trainer & Developer, working on Enterprise and open source Technolo
 
 ![](./profile1.gif)
 
+![](./test.png)
 
 
 I build lots of demos and tutorials for Trainings [@tkssharma](https://github.com/tkssharma), I provide free training on all different technologies.
