@@ -2,9 +2,9 @@
 
 A Publisher, Trainer & Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework React & Node js 🚀 with Graphql 🎉 [developer publications](/publications).
 
-![](./profile.gif)
+![](./profile1.gif)
 
-<img src="profile.gif"/>
+<img src="profile1.gif"/>
 
 I build lots of demos and tutorials for Trainings [@tkssharma](https://github.com/tkssharma), I provide free training on all different technologies.
 I work at [Srijan](https://www.srijan.net/) as a Lead Developer, check out [tkssharma.com](https://www.tkssharma.com/).
