@@ -1,11 +1,15 @@
+# Hey, I'm Tarun (@tkssharma)
 
-I’m Tarun, I am Publisher, Trainer Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework React & Node js 🚀 with Graphql 🎉 [developer publications](/publications).
+A Publisher, Trainer & Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework React & Node js 🚀 with Graphql 🎉 [developer publications](/publications).
 
-I am passionate Javascript developer writing end to end application using javascript using React, Angular 🅰️, Vue JS with Node JS, i publish video [tutorials](/learn) and write about everything I know. I aim to create a beautiful corner of the web free of ads, sponsored posts, newsletter pop-ups, affiliate links, and the rest of the annoying noise we're so accustomed to seeing on the internet these days.
+[![i write code and teach developers.]()
 
-🎉 [Know More About Me](https://profile.tkssharma.com) 🎉
+I build lots of demos and tutorials for Trainings [@tkssharma](https://github.com/tkssharma), I provide free training on all different technologies.
+I work at [Srijan](https://www.srijan.net/) as a Lead Developer, check out [tkssharma.com](https://www.tkssharma.com/).
 
-🎉 [Resume](https://tkssharma.com/resume) 🎉
+ [Know More About Me](https://profile.tkssharma.com) 🎉
+
+ [Resume](https://tkssharma.com/resume) 🎉
 
 
 ## Talks and Sessions
