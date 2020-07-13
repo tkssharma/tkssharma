@@ -1,5 +1,24 @@
 # Hey, I'm Tarun (@tkssharma)
 
+<br/>
+<a href="https://twitter.com/tkssharma">
+  <img align="left" alt="Tarun Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/tarun-sharma-03790254/">
+  <img align="left" alt="Tarun's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.reddit.com/user/tkssharma/">
+  <img align="left" alt="Tarun's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
+<a href="https://medium.com/@tkssharma">
+  <img align="left" alt="Tarun's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" />
+</a>
+<a href="https://github.com/tkssharma">
+  <img align="left" alt="Tarun's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
+</a>
+<br/>
+
+
 A Publisher, Trainer & Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework React & Node js 🚀 with Graphql 🎉 [developer publications](/publications).
 
 
@@ -9,8 +28,32 @@ I work at [Srijan](https://www.srijan.net/) as a Lead Developer, check out [tkss
 
  [Know More About Me](https://profile.tkssharma.com) 🎉
 
- [Resume](https://tkssharma.com/resume) 🎉
+  <img align="right" alt="GIF" src="profile.gif" />
 
+  
+**Talking about Personal Stuffs:**
+
+- 👨🏽‍💻 I’m currently working on full stack javascript technologies. 
+- 🌱 I’m currently learning GraphQL and Kubernetes and working on Learning Portal project (Personal App)
+- 🤔 I provide training to developers on javascript and Full stack technologies
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Fun-Fact: I started youtube channel and now i have 1000+ videos and teaching different group of developers online free.
+- 📫 How to reach me: tarun.softengg@gmail.com;
+- 📝[Resume](https://tkssharma.com/resume/)
+- I have different application published to [Know More About apps](https://profile.tkssharma.com)
+
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ## Talks and Sessions
 
