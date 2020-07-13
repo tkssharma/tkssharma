@@ -26,7 +26,7 @@ I work at [Srijan](https://www.srijan.net/) as a Lead Developer, check out [tkss
 
  [Know More About Me](https://profile.tkssharma.com) 🎉
 
-  <img align="right" alt="GIF" src="https://github.com/tkssharma/tkssharma/blob/master/profile.gif" />
+  <img align="right" alt="GIF" width="400" src="https://github.com/tkssharma/tkssharma/blob/master/profile.gif" />
 
   
 **Talking about Personal Stuffs:**
