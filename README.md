@@ -1,5 +1,4 @@
 # Hey, I'm Tarun (@tkssharma)
-
 <br/>
 <a href="https://twitter.com/tkssharma">
   <img align="left" alt="Tarun Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -17,7 +16,6 @@
   <img align="left" alt="Tarun's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" />
 </a>
 <br/>
-
 
 A Publisher, Trainer & Developer, working on Enterprise and open source Technologies JavaScript frameworks (React Angular 2.x), I work with client side and server side javascript programming which includes node js or any other frameworks Currently working with JavaScript framework React & Node js 🚀 with Graphql 🎉 [developer publications](/publications).
 
