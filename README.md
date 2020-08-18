@@ -60,8 +60,8 @@ I work at [Srijan](https://www.srijan.net/) as a Lead Developer, check out [tkss
 
 
 ## Some of my Github Stats
-[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=tkssharma&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
-[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=tkssharma&layout=compact)](https://github.com/pedes/github-readme-stats)
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=tkssharma&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/tkssharma/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=tkssharma&layout=compact)](https://github.com/tkssharma/github-readme-stats)
 
 
 
