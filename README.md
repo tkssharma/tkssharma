@@ -1,5 +1,4 @@
 # Hey, I'm Tarun (@tkssharma)
-<br/>
 
 <a href="https://twitter.com/tkssharma">
   <img align="left" alt="Tarun Sharma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -58,6 +57,11 @@ I work at [Srijan](https://www.srijan.net/) as a Lead Developer, check out [tkss
 <code><img height="20" src="https://github.com/tkssharma/tkssharma.com/blob/master/content/thumbnails/nestjs.png"></code>
 <code><img height="20" src="https://github.com/tkssharma/tkssharma.com/blob/master/content/thumbnails/docker.png"></code>
 <code><img height="20" src="https://github.com/tkssharma/tkssharma.com/blob/master/content/thumbnails/k8s.png"></code>
+
+
+## Some of my Github Stats
+[![All Stats](https://github-readme-stats-axpwmfcg3.vercel.app/api?username=tkssharma&show_icons=true&include_all_commits=true&count_private=true&hide=contribs)](https://github.com/pedes/github-readme-stats)
+[![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=tkssharma&layout=compact)](https://github.com/pedes/github-readme-stats)
 
 
 
