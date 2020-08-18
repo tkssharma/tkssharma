@@ -64,7 +64,6 @@ I work at [Srijan](https://www.srijan.net/) as a Lead Developer, check out [tkss
 [![Top Langs](https://github-readme-stats-axpwmfcg3.vercel.app/api/top-langs/?username=tkssharma&layout=compact)](https://github.com/tkssharma)
 
 
-
 ## Talks and Sessions
 
 <div class="project-grid">
